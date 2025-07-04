@@ -1,1 +1,0 @@
-import{__plugin_vue_export_helper_default as e,createBaseVNode as t,createElementBlock as n,openBlock as r}from"./index-Ciyevn_u.js";const i={},a={class:`about`};function o(e,i){return r(),n(`div`,a,i[0]||=[t(`h1`,null,`This is an about page`,-1)])}var s=e(i,[[`render`,o]]);export{s as default};
