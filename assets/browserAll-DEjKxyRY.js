@@ -1,0 +1,1 @@
+import{AccessibilitySystem as e,Container as t,DOMPipe as n,EventSystem as r,FederatedContainer as i,accessibilityTarget as a,extensions as o}from"./game-DzIFUeOw.js";import"./init-xubyzGm1.js";o.add(e),o.mixin(t,a),o.add(r),o.mixin(t,i),o.add(n);

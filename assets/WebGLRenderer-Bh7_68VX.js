@@ -1,0 +1,1 @@
+import{WebGLRenderer as e}from"./game-DzIFUeOw.js";export{e as WebGLRenderer};
