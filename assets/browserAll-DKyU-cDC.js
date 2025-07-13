@@ -1,0 +1,1 @@
+import{AccessibilitySystem as e,Container as t,DOMPipe as n,EventSystem as r,FederatedContainer as i,accessibilityTarget as a,extensions as o}from"./game-BATadZqL.js";import"./init-Da_iY3lq.js";o.add(e),o.mixin(t,a),o.add(r),o.mixin(t,i),o.add(n);

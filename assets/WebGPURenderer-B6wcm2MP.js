@@ -1,1 +1,0 @@
-import{WebGPURenderer as e}from"./game-DzIFUeOw.js";export{e as WebGPURenderer};

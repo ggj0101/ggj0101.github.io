@@ -1,0 +1,1 @@
+import{WebGPURenderer as e}from"./game-BATadZqL.js";export{e as WebGPURenderer};

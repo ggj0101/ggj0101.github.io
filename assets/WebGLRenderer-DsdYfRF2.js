@@ -1,0 +1,1 @@
+import{WebGLRenderer as e}from"./game-BATadZqL.js";export{e as WebGLRenderer};
